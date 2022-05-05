@@ -1,0 +1,45 @@
+Structural Pattern
+
+Adapter
+ - makes code more reusable
+
+
+Bridge
+ - allows ton independently develop components
+ - separate dimensions of a class
+ - example : computer set
+
+
+Composite
+ - hierarchy
+ - trees
+
+
+Decorator
+ - easier to clone objects
+ - used for adding features to existing classes
+ - single responsibility principle
+
+
+Facade
+ -
+
+Flyweight
+ - efficient memory usage
+ - hides complex class behind a simple class(presented)
+
+
+Proxy
+ - placeholder
+ - class that acts as interface
+
+
+
+
+Behavioral Patterns
+- conditions of the objects
+
+
+
+Laboratory
+- use both the assigned design pattern for a SINGLE use case
